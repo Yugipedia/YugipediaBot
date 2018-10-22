@@ -1,0 +1,20 @@
+{
+	"commands": {
+		"-bot": "Reserved.",
+		"-card": "Shows info about cards (and pages in general).",
+		"-help": "Provides help on how to use the bot.",
+		"-info": "Provides info about the bot.",
+		"-invite": "To generate an invite.",
+		"-page": "Shows info about pages (works similarly to «-card»).",
+		"-query": "To run queries.",
+		"-special": "To call for special pages.",
+		"-b": "Alias for «-bot».",
+		"-c": "Alias for «-card».",
+		"-h": "Alias for «-help».",
+		"-i": "Alias for «-info».",
+		"-p": "Alias for «-page».",
+		"-q": "Alias for «-query».",
+		"-s": "Alias for «-special».",
+		"-y": "Alias for «-yugipedia»."
+	}
+}

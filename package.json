@@ -1,0 +1,11 @@
+{
+  "name": "BecaBot#3712",
+  "version": "0.0.0",
+  "description": "BecaBot: YGO info.",
+  "main": "bot.js",
+  "author": "Becasita",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "node-fetch": "^1.7.3"
+  }
+}
