@@ -8,9 +8,9 @@
 /**
  * Imports:
  */
-const Discord   = require('discord.js');
+const Discord = require('discord.js');
 const { token } = require('./config.json');
-const commands  = require('./commands.json');
+const { commands } = require('./commands.json');
 //const index = require('./index');
 const _page = require('./page');
 const _help = require('./help');
